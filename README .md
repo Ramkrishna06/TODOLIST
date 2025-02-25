@@ -32,6 +32,7 @@ https://todo-list-70bfa.web.app/
 
 Above this is a demo link to web app.
 ## Screenshots
+![Screenshot 2025-02-25 153034](https://github.com/user-attachments/assets/1ac8a2bc-f39c-46d9-84fe-cf3de54e390e)
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
